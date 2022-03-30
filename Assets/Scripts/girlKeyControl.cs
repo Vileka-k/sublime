@@ -7,7 +7,7 @@ public class girlKeyControl : MonoBehaviour
 
     Rigidbody rb; 
     public bool movechecker = true;
-    public float speed;
+    public float speed = 50;
 
     // Start is called before the first frame update
     void Start()
